@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m a student form Czechia. I’m 15 years old and i have been coding since I was 9. I want to become a fullstack developer.<br>- I am currently working on a Telemetry tool for LeMansUltimate<br>- I am currently learning rust<br>- I know C++ and a bit of Python and JS
+Hi! I’m a student form Czechia. I’m 15 years old and i have been coding since I was 9. I want to become a fullstack developer.<br>- I am currently working on a Telemetry tool for LeMansUltimate<br>- I am currently learning rust
 
 
 # 💻 Tech Stack:
@@ -9,13 +9,5 @@ Hi! I’m a student form Czechia. I’m 15 years old and i have been coding sinc
 ![](https://nirzak-streak-stats.vercel.app/?user=Karlito05&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karlito05&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Karlito05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Karlito05&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
