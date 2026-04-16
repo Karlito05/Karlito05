@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi! I’m a student form Czechia. I’m 15 years old and i have been coding since I was 9. I want to become a fullstack developer.<br>- I am currently working on a Telemetry tool for LeMansUltimate<br>- I am currently learning rust
+Hi! I’m a student form Czechia. I’m 15 years old and i have been coding since I was 9. I want to become a fullstack developer.
+- I am currently working on a Telemetry tool for LeMansUltimate
+- I am currently learning Rust and React
 
 
 # 💻 Tech Stack:
